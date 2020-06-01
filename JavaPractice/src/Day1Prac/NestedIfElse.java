@@ -11,7 +11,7 @@ public class NestedIfElse {
 			System.out.println("It's sat day, weekend!");
 			
 		} else if (weekend == 7) {
-			
+			 
 			System.out.println("It's sun day, weekend!");
 			
 		} else if (weekend > 7) {

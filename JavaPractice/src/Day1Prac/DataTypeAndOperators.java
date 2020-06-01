@@ -13,7 +13,9 @@ public class DataTypeAndOperators {
 	
 	char n = 'I';
 	
-	String spaceShip = "10";
+	static String spaceShip = "10"; 
+	
+
 	
 	boolean decision = true;
 	
@@ -23,7 +25,7 @@ public class DataTypeAndOperators {
 	public static void main(String[] args) { 
 		int a = 2;
 		int b = 10;
-		 
+	
 		
 		System.out.println(a);
 		System.out.println(b);
@@ -34,10 +36,14 @@ public class DataTypeAndOperators {
 		
 		System.out.println(a);
 		System.out.println(b);
+		
+		
+	
+		
 		// = 
 		// + - * / % 
 		// > , <, >=, <=, != , == 
-		// && || ! 
+		// && || !
 		
 //		4 > 3 && 4 >= 4 //true 
 //		

@@ -4,11 +4,15 @@ public class LoopPrac {
 	
 	public static void main(String[] args) {
 		
-		int i = 1;
 		
-		while (i <= 10) {
+	
+		
+		int i = 21;
+		
+		while (i < 31) {
 			
 			System.out.println(i);
+			
 			i++;
 		}
 		
@@ -18,6 +22,12 @@ public class LoopPrac {
 			
 			System.out.println(n);
 		}
+		
+		//============
+		
+	
+				
+				
 		
 		
 	}
