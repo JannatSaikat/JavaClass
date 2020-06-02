@@ -39,4 +39,11 @@ totalMarks() Calculate total marks and print the student details with total mark
 
 Now, create objects from Student class stu1, stu2 etc. Then call Student class methods.
 
+Day 5
+
+1. Create a variable in a class use that variable in another class
+2. Call a non static method from main method
+3. Use static and non static variable from main method
+
+
 

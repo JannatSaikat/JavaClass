@@ -11,7 +11,7 @@ public class Employee {
 		this.salary = salary;	
 	}
 	
-	void printData() {
+	void printData() { 
 		System.out.println(name);
 		System.out.println(id);
 		System.out.println(salary);
