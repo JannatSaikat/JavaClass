@@ -45,5 +45,12 @@ Day 5
 2. Call a non static method from main method
 3. Use static and non static variable from main method
 
+Day 7
+
+1. Create a FordCar with Car interface
+2. Create an String Array, print all elements with for loop, then foreach loop 
+
+
+
 
 
