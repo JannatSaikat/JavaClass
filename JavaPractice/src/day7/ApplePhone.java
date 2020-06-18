@@ -13,6 +13,7 @@ public class ApplePhone implements Regulation , Phone {
 	}
 
 
+	//@override
 	public void display() {
 		System.out.println("touch display");
 	}
