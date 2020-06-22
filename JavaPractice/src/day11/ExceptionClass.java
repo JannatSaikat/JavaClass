@@ -12,7 +12,7 @@ public class ExceptionClass {
 	
 	public static void main(String[] args) throws Exception {
 		ExceptionClass ref = new ExceptionClass();
-		ref.c();
+		ref.c(); 
 		
 		ClassPie pie = new ClassPie();
 		System.out.println(pie.qty);
